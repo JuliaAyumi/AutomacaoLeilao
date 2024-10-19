@@ -1,3 +1,5 @@
+TUTORIAL
+
 Com o Node.js já instalado na minha máquina, segui os seguintes passos para rodar os testes automatizados
 
 Instalei o Cypress no projeto utilizando o comando:
